@@ -1,0 +1,74 @@
+/* Our Basic Stylesheet */
+
+/* Background Colours */
+
+.bg-red {
+    background-color: #F38C8C;
+}
+
+.bg-green {
+    background-color: #ADF38C;
+}
+
+.bg-blue {
+    background-color: #8CE1F3;
+}
+
+.bg-yellow {
+    background-color: #F3E38C;
+}
+
+/* Border Colours */
+
+.border-red {
+    border: 3px solid #F38C8C;
+}
+
+.border-green {
+    border: 3px solid #ADF38C;
+}
+
+.border-blue {
+    border: 3px solid #8CE1F3;
+}
+
+.border-yellow {
+    border: 3px solid #F3E38C;
+}
+
+/* Active Colours */
+
+.red.active {
+    background-color: #F38C8C;
+}
+
+.green.active {
+    background-color: #ADF38C;
+}
+
+.blue.active {
+    background-color: #8CE1F3;
+}
+
+.yellow.active {
+    background-color: #F3E38C;
+}
+/* Image Setting */
+
+.image-crop {
+    object-fit: cover;
+}
+
+.max-y-400 {
+    max-height: 400px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+/* Cursor */
+
+.cursor-pointer {
+    cursor: pointer;
+}
