@@ -18,7 +18,10 @@
     "babel": "^6.23.0",
     "bootstrap": "^5.0.0-beta2",
     "path": "^0.12.7",
-    "webpack": "^5.24.3",
     "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {
+    "webpack": "^5.24.3",
+    "webpack-cli": "^4.5.0"
   }
 }
