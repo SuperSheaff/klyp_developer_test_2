@@ -1,7 +1,7 @@
 {
-  "name": "ben",
+  "name": "klyp_developer_test_2",
   "version": "1.0.0",
-  "description": "Klyp Developer Test",
+  "description": "Ben Fowlers attempt at the legendary Klyp Developer Test | Round 2",
   "main": "index.js",
   "author": "Ben Fowler",
   "license": "MIT",
