@@ -1,0 +1,9 @@
+{
+  "name": "ben",
+  "version": "1.0.0",
+  "description": "Klyp Developer Test",
+  "main": "index.js",
+  "author": "Ben Fowler",
+  "license": "MIT",
+  "private": true
+}
