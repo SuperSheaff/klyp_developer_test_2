@@ -29,6 +29,7 @@ add_action( 'wp_enqueue_scripts', 'import_styles' );
 function t10_import_scripts() {
 
 	wp_enqueue_script( 'main-js', get_template_directory_uri() . '/assets/webpack/bundle.js', array(), '1.0.0', true );
+	wp_enqueue_script( 'script-js', get_template_directory_uri() . '/assets/js/script.js', array(), '1.0.0', true );
 
 }
 

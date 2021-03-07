@@ -102,19 +102,23 @@ $result_array_yellow = json_decode($output_yellow, true);
                     ?>
 
                     <!-- Output a column -->
-                    <div class="col-12 col-md-6 col-lg-4 mb-md-3">
-                        <div class="d-flex flex-md-column p-3 border shadow h-100">
-                            <div class="mr-2 mr-md-0 mb-md-2">
+                    <div class="col-12 col-md-6 col-lg-4 mb-3">
+                        <div class="p-3 border shadow h-100">
 
-                                <!-- Output the movie poster -->
-                                <img src="<?php echo $movie["Poster"]; ?>" alt="<?php echo $movie["Title"]; ?>" class="image-crop max-y-400 w-100">
+                            <div class="row">
+                                <div class="col-3 col-md-12">
+                                    <!-- Output the movie poster -->
+                                    <img src="<?php echo $movie["Poster"]; ?>" alt="<?php echo $movie["Title"]; ?>" class="image-crop max-y-400 w-100 mb-1">
+                                </div>
+                                <div class="col-9 col-md-12 my-auto">
+                                    <!-- Output the formatted movie title -->
+                                    <h5 class="mt-auto"><?php echo $formatted_title; ?></h5>
+
+                                    <!-- Output the movie year -->
+                                    <em><?php echo $movie["Year"]; ?></em>
+                                </div>
                             </div>
-
-                            <!-- Output the formatted movie title -->
-                            <h5 class="mt-auto"><?php echo $formatted_title; ?></h5>
-
-                            <!-- Output the movie year -->
-                            <em><?php echo $movie["Year"]; ?></em>
+                            
                         </div>
                     </div>
 
@@ -144,19 +148,23 @@ $result_array_yellow = json_decode($output_yellow, true);
                     ?>
 
                     <!-- Output a column -->
-                    <div class="col-12 col-md-6 col-lg-4 mb-md-3">
-                        <div class="d-flex flex-md-column p-3 border shadow h-100">
-                            <div class="mr-2 mr-md-0 mb-md-2">
+                    <div class="col-12 col-md-6 col-lg-4 mb-3">
+                        <div class="p-3 border shadow h-100">
 
-                                <!-- Output the movie poster -->
-                                <img src="<?php echo $movie["Poster"]; ?>" alt="<?php echo $movie["Title"]; ?>" class="image-crop max-y-400 w-100">
+                            <div class="row">
+                                <div class="col-3 col-md-12">
+                                    <!-- Output the movie poster -->
+                                    <img src="<?php echo $movie["Poster"]; ?>" alt="<?php echo $movie["Title"]; ?>" class="image-crop max-y-400 w-100 mb-1">
+                                </div>
+                                <div class="col-9 col-md-12 my-auto">
+                                    <!-- Output the formatted movie title -->
+                                    <h5 class="mt-auto"><?php echo $formatted_title; ?></h5>
+
+                                    <!-- Output the movie year -->
+                                    <em><?php echo $movie["Year"]; ?></em>
+                                </div>
                             </div>
-
-                            <!-- Output the formatted movie title -->
-                            <h5 class="mt-auto"><?php echo $formatted_title; ?></h5>
-
-                            <!-- Output the movie year -->
-                            <em><?php echo $movie["Year"]; ?></em>
+                            
                         </div>
                     </div>
 
@@ -186,19 +194,23 @@ $result_array_yellow = json_decode($output_yellow, true);
                     ?>
 
                     <!-- Output a column -->
-                    <div class="col-12 col-md-6 col-lg-4 mb-md-3">
-                        <div class="d-flex flex-md-column p-3 border shadow h-100">
-                            <div class="mr-2 mr-md-0 mb-md-2">
+                    <div class="col-12 col-md-6 col-lg-4 mb-3">
+                        <div class="p-3 border shadow h-100">
 
-                                <!-- Output the movie poster -->
-                                <img src="<?php echo $movie["Poster"]; ?>" alt="<?php echo $movie["Title"]; ?>" class="image-crop max-y-400 w-100">
+                            <div class="row">
+                                <div class="col-3 col-md-12">
+                                    <!-- Output the movie poster -->
+                                    <img src="<?php echo $movie["Poster"]; ?>" alt="<?php echo $movie["Title"]; ?>" class="image-crop max-y-400 w-100 mb-1">
+                                </div>
+                                <div class="col-9 col-md-12 my-auto">
+                                    <!-- Output the formatted movie title -->
+                                    <h5 class="mt-auto"><?php echo $formatted_title; ?></h5>
+
+                                    <!-- Output the movie year -->
+                                    <em><?php echo $movie["Year"]; ?></em>
+                                </div>
                             </div>
-
-                            <!-- Output the formatted movie title -->
-                            <h5 class="mt-auto"><?php echo $formatted_title; ?></h5>
-
-                            <!-- Output the movie year -->
-                            <em><?php echo $movie["Year"]; ?></em>
+                            
                         </div>
                     </div>
 
@@ -228,19 +240,23 @@ $result_array_yellow = json_decode($output_yellow, true);
                     ?>
 
                     <!-- Output a column -->
-                    <div class="col-12 col-md-6 col-lg-4 mb-md-3">
-                        <div class="d-flex flex-md-column p-3 border shadow h-100">
-                            <div class="mr-2 mr-md-0 mb-md-2">
+                    <div class="col-12 col-md-6 col-lg-4 mb-3">
+                        <div class="p-3 border shadow h-100">
 
-                                <!-- Output the movie poster -->
-                                <img src="<?php echo $movie["Poster"]; ?>" alt="<?php echo $movie["Title"]; ?>" class="image-crop max-y-400 w-100">
+                            <div class="row">
+                                <div class="col-3 col-md-12">
+                                    <!-- Output the movie poster -->
+                                    <img src="<?php echo $movie["Poster"]; ?>" alt="<?php echo $movie["Title"]; ?>" class="image-crop max-y-400 w-100 mb-1">
+                                </div>
+                                <div class="col-9 col-md-12 my-auto">
+                                    <!-- Output the formatted movie title -->
+                                    <h5 class="mt-auto"><?php echo $formatted_title; ?></h5>
+
+                                    <!-- Output the movie year -->
+                                    <em><?php echo $movie["Year"]; ?></em>
+                                </div>
                             </div>
-
-                            <!-- Output the formatted movie title -->
-                            <h5 class="mt-auto"><?php echo $formatted_title; ?></h5>
-
-                            <!-- Output the movie year -->
-                            <em><?php echo $movie["Year"]; ?></em>
+                            
                         </div>
                     </div>
 

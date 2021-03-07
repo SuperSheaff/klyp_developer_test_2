@@ -67,8 +67,16 @@
     width: 100%;
 }
 
+
 /* Cursor */
 
 .cursor-pointer {
     cursor: pointer;
+}
+
+@media screen and (max-width: 1200px){
+}
+@media screen and (max-width: 767px){
+}
+@media screen and (max-width: 425px){
 }
