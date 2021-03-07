@@ -1,0 +1,159 @@
+commit 3e6a7be7c2b0d246bc610c742a01d95324bac68a
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 22:10:42 2021 +1000
+
+    last run build
+
+commit 26c65cbd3af82573d6d26198c1f0533a0a07ec7f
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 22:09:32 2021 +1000
+
+    rename theme and add screenshot,png
+
+commit 02183a4936afd0035360f82870dc6085441ccc52
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 22:02:27 2021 +1000
+
+    add title
+
+commit 066b1af1b76f67da236e5cc7a0e4102eec661a48
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 21:55:52 2021 +1000
+
+    Seperate JS into flat file and edit the php outp function slightly
+
+commit 1601cb467f53ef863136c6372922bfd31f34d5df
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 21:37:55 2021 +1000
+
+    adjust function to point at our bundle.js
+
+commit 09f253f5755527380d15209f940284aa3844b564
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 21:34:52 2021 +1000
+
+    Create .gitignore.txt
+    
+    add ignore node_modules
+
+commit 49a98e64071bea2034b934b6f898192c8bf13bb4
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 21:30:12 2021 +1000
+
+    Tried and failed Yarn, reverting back to just npm and webpack
+
+commit c2ff2211f6dbc45d87bd03950d4d492fb866ddb0
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 20:51:04 2021 +1000
+
+    install wepback
+
+commit 3838bca28477fd85624cbfe85e5d2c776168d86d
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 20:47:28 2021 +1000
+
+    installing popper, babel, webpack
+
+commit 28373d0f0f3fecb4d5e232fd21b267fcb4935d99
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 20:28:25 2021 +1000
+
+    add in bootstrap and scripts via functions (still working on yarn)
+
+commit a4fd8198412af851e2bc148328fb4802e7e694f7
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 20:18:20 2021 +1000
+
+    add git link
+
+commit 4b197e18fb38594ff21477dcae489297efb96c9d
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 20:00:34 2021 +1000
+
+    Create Header + Footer + Functions
+
+commit a431b885bee55a9ff1bc0d5b1aba65215f23314c
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 19:46:07 2021 +1000
+
+    Adjust package.json + add style.css
+
+commit 1e8e84cedb759c63fc6abc2c0cd1774f4f8f5a3b
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 19:34:27 2021 +1000
+
+    install bootstrap with yarn
+
+commit 8d0498e9f8bf9dca4e350700dcdb95d72874149a
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 19:31:55 2021 +1000
+
+    remove whitespace
+
+commit f16cede6f7be540b32067ae1943363a154caae34
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 19:29:50 2021 +1000
+
+    Editing details slightly
+
+commit c293ee044dcb779ddf74b0c861b62770f1ab34a7
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 19:28:33 2021 +1000
+
+    Remove workflows
+
+commit b8f82cfb065cf7c865764344f6978bdf1f6929d8
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 19:27:47 2021 +1000
+
+    Delete excess WP themes
+
+commit 7bea9ddd9d36c88182f399fb29078360921bfc8a
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 19:27:05 2021 +1000
+
+    Installed Yarn into theme
+
+commit f6b3d3dba7995b285677fcda68649a114c0b7733
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 19:22:22 2021 +1000
+
+    add old code (last time I did this test) as theme index.php
+
+commit abc077f3ee5431de75d5ff82fc16d12d32b3ddef
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 19:20:01 2021 +1000
+
+    fix main.yml
+
+commit ebe0d1bd79360cbd19dfd75a5cc3560a24f45194
+Author: Ben <ben.r.fowler@hotmail.com>
+Date:   Sun Mar 7 19:18:07 2021 +1000
+
+    Create main.yml
+
+commit e57706e3713271f821bd1322a54af7516242a9a9
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 18:54:00 2021 +1000
+
+    Install Wordpress
+
+commit fea153eb7c74152d3615eeeca184ec0f61ee22bc
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 18:47:34 2021 +1000
+
+    Update README.md
+    
+    New README version
+
+commit 5d947b21d2f73e2366afe9196e4fa604c244f345
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 18:45:51 2021 +1000
+
+    Init with Klyp starting files
+
+commit 179f424b4b7f3ca81e4e4a52f5ac5fc2373a1d73
+Author: t10-ben <ben@talent10.com>
+Date:   Sun Mar 7 18:45:06 2021 +1000
+
+    Initial commit
