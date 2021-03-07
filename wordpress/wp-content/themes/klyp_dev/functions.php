@@ -17,8 +17,8 @@ define('DIRECTORY', get_template_directory_uri() );
 function import_styles() {
 
 	// Theme stylesheet.
-	wp_enqueue_style( 'ben-style', get_stylesheet_uri(), false, '100');
-	wp_enqueue_style( 'example-css', get_template_directory_uri() . '/assets/css/bootstrap.min.css', '4.9.0' );
+	// wp_enqueue_style( 'ben-style', get_stylesheet_uri(), false, '100');
+	// wp_enqueue_style( 'example-css', get_template_directory_uri() . '/assets/css/bootstrap.min.css', '4.9.0' );
 }
 
 add_action( 'wp_enqueue_scripts', 'import_styles' );
@@ -28,7 +28,7 @@ add_action( 'wp_enqueue_scripts', 'import_styles' );
  */
 function t10_import_scripts() {
 
-	wp_enqueue_script( 'main-js', get_template_directory_uri() . '/assets/js/script.js', array(), '1.0.0', true );
+	wp_enqueue_script( 'main-js', get_template_directory_uri() . '/assets/webpack/bundle.js', array(), '1.0.0', true );
 
 }
 
