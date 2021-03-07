@@ -43,22 +43,7 @@ $result_array_yellow = json_decode($output_yellow, true);
 
 ?>
 
-<html>
-    <head>
-        <link rel="stylesheet" type="text/css" href="style.css">
-        <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
-        <script src="script.js"></script>
-    </head>
-    <body>
-
-        <header class="bg-dark">
-            <div class="container">
-                <div class="d-flex justify-content-between py-3">
-                    <p class="text-light mb-0">Ben Fowler</p>
-                    <a href="tel:0414794660" class="text-light">Call me</a>
-                </div>
-            </div>
-        </header>
+<?php get_header(); ?>
 
         <section class="py-3 py-lg-5">
             <div class="container">
@@ -268,6 +253,4 @@ $result_array_yellow = json_decode($output_yellow, true);
             </div>
         </section>
 
-
-    </body>
-</html>
+    <?php get_footer(); ?>
