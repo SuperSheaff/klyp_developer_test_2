@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Ben Fowlers attempt at the legendary Klyp Developer Test | Round 2",
   "main": "index.js",
+  "repository": {
+    "url": "https://github.com/SuperSheaff/klyp_developer_test_2",
+    "type": "git"
+  },
   "author": "Ben Fowler",
   "license": "MIT",
   "private": true,
